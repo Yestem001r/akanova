@@ -309,7 +309,11 @@ h6 {
 
 /* MATERIALS SECTION */
 .materials-section {
-  margin-top: 64px;
+  background-color: #253015;
+  width: 95%;
+  margin: 64px auto;
+  border-radius: 16px;
+  padding-block: 32px;
 }
 
 iframe {
@@ -361,7 +365,6 @@ iframe {
   align-items: center;
   background-color: transparent;
   width: 90%;
-  max-width: 390px;
   margin: 40px auto;
   color: var(--secondary-white);
   font-family: "Roboto";
