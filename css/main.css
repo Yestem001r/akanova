@@ -112,7 +112,7 @@ h6 {
 .home-heading {
   margin: 0 auto;
   line-height: 1.3em;
-  font-size: 27px;
+  font-size: 24px;
   padding-top: 16px;
   padding-bottom: 16px;
 }
@@ -188,6 +188,7 @@ h6 {
   padding: 16px 36px;
   border-radius: 5px;
   margin-top: 12px;
+  font-size: 14px;
   display: inline-block;
 }
 
@@ -215,6 +216,7 @@ h6 {
   font-size: 16px;
   padding-block: 12px;
   background-color: var(--secondary-white);
+  color:black;
 }
 
 .pricing-buttons button.active {
@@ -393,7 +395,6 @@ iframe {
   border-radius: 12px;
   padding: 20px 20px;
   color: black;
-  letter-spacing: 0.04em;
   margin-bottom: 4px;
 }
 
